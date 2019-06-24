@@ -1,0 +1,9 @@
+build/
+*.log
+/.idea
+.packages
+*.lock
+*.iml
+/android/.gradle
+/android/local.properties
+/.flutter-plugins
